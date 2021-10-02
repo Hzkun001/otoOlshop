@@ -1,0 +1,6 @@
+File masih belum selesai, index dibawah hanyalah copy an
+dari kerangka html di repo Home.
+--------------------------------------------
+Tanda folder ini selesai jika saia 
+sudah menguploadnya ke repo master utama.
+ 
